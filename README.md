@@ -1,16 +1,11 @@
-# login
+# 🔐 Login Module
 
-A new Flutter project.
+This repository is part of the final project for the **Mobile Programming** course.
 
-## Getting Started
+It is separated from the main repository in order to:
 
-This project is a starting point for a Flutter application.
+- Focus on testing the login feature independently  
+- Keep development modular and organized  
+- Minimize build load for better performance on limited devices
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
